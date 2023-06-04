@@ -6,7 +6,7 @@ The goal of this project is to build a system that can detect potential suicidal
 
 ## Dataset
 
-The dataset used in this project is the [Suicide and Depression Detection](https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch) from [Kaggle](https://www.kaggle.com/cosmos98/twitter-and-reddit-sentimental-analysis-dataset). The dataset contains 100k suicidal text samples and 100k non-suicidal text samples, with each text already annotated. The dataset is split into 80% training set and 20% testing set. The amount of data available for this case is immense, and although it could be reduced to decrease complexity, all of the data was utilized as the machine learning model remained trainable and effective.
+The dataset used in this project is the [Suicide and Depression Detection](https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch) from Kaggle. The dataset contains 100k suicidal text samples and 100k non-suicidal text samples, with each text already annotated. The dataset is split into 80% training set and 20% testing set. The amount of data available for this case is immense, and although it could be reduced to decrease complexity, all of the data was utilized as the machine learning model remained trainable and effective.
 
 ## Preprocessing
 
